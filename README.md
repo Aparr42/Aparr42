@@ -1,8 +1,12 @@
 ## Apaar Mast
 
-Programme Manager and Business Analyst in Dublin. Six years delivering enterprise IT programmes and digital transformation in governed environments, most recently across 28 Ericsson sites under ITIL change control.
+A Digital product and Business Analyst in Dublin.
 
-I also build. Everything here is written and shipped by me, and it exists so that when I sit between a business stakeholder and an engineering team, I actually understand both sides of the conversation.
+Enterprise delivery made me systems-oriented. Retail and service transformation made me a builder. Across both, I developed the same habit: spotting unclear ownership, broken handovers, missing records, repeated manual work and workflows that depend too much on memory.
+
+I am based in Dublin and recently completed an MSc in Digital Innovation at UCD Smurfit. My work sits across digital product, business systems and delivery, with experience spanning multi-site enterprise coordination, service operations, SME digital systems and institutional workflows.
+
+The thread is simple: understand the real workflow, make the messy parts visible, and build something useful enough for people to keep using.
 
 ### What's here
 
@@ -14,15 +18,15 @@ I also build. Everything here is written and shipped by me, and it exists so tha
 
 ### How I work
 
-Most of what I do professionally is turning unclear business problems into scope somebody can actually deliver. Requirements, backlogs, decision records, change control, and the stakeholder conversations that keep all of it honest.
+For a decade I've worked at the messy edge of organisations, where the brief is fuzzy, records don't line up, and nobody quite agrees what done looks like. Enterprise programmes, a two-location service business, and a string of digital products for small teams.
 
-That habit shows up in these repositories too. Portfolio-Engine keeps a decision log against each case study. The Ireland study publishes its method and its verdict before its conclusions. I would rather leave the reasoning visible than present a clean result with no working.
+The thread is the same throughout: take ambiguity, give it shape, and hand back something a team can actually run. An MSc in Digital Innovation (UCD Smurfit) sits underneath the practice.
+
 
 ### Background
 
 - MSc Digital Innovation, UCD Michael Smurfit Graduate Business School, 2025
 - BSc (Hons) Information Technology, Asia Pacific University with Staffordshire University
-- Scrum Master certification in progress
 
 **Build:** Python and Django, TypeScript, React Native, JavaScript, HTML and CSS, PostgreSQL, Supabase
 **Deliver:** Programme management, business analysis, requirements engineering, ITIL and change control, Agile and SAFe, Jira
@@ -31,4 +35,4 @@ That habit shows up in these repositories too. Portfolio-Engine keeps a decision
 
 [decodewithapaar.com](https://www.decodewithapaar.com) · [LinkedIn](https://www.linkedin.com/in/apaarmasst)
 
-Open to Programme Manager, Business Analyst, Product Owner and Delivery Manager roles in Dublin.
+Open to Project Manager, Business Analyst, Product Owner and Delivery Manager roles in Dublin.
